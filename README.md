@@ -34,4 +34,5 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-docker]：Spring Boot 3.0.2 Docker 使用案例
 - [dockercompose-springboot-mysql-nginx]：Spring Boot 3.0.2 Docker Compose + Spring Boot + Nginx + Mysql 使用案例
 
-> 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以issues(https://github.com/misszhou/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
+> 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/misszhou/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
+
