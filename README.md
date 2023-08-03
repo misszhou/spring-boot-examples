@@ -17,7 +17,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-helloworld](https://github.com/misszhou/spring-boot-examples/tree/master/spring-boot-helloworld)：Spring Boot 3.0.2 Hello World Test 单元测试示例
 - [spring-boot-scheduler](https://github.com/misszhou/spring-boot-examples/tree/master/spring-boot-scheduler)：Spring Boot 3.0.2 定时任务 scheduler 使用示例
 - [spring-boot-package]：Spring Boot 3.0.2 单元测试、集成测试、打 Jar/War 包、定制启动参数使用案例
-- [spring-boot-commandLineRunner]：Spring Boot 3.0.2 目启动时初始化资源案例
+- [spring-boot-commandLineRunner](https://github.com/misszhou/spring-boot-examples/tree/master/spring-boot-commandLineRunner)：Spring Boot 3.0.2 目启动时初始化资源案例
 - [spring-boot-web]：Spring Boot 3.0.2 web 示例
 - [spring-boot-webflux]：Spring Boot 3.0.2 响应式编程 WebFlux 使用案例
 - [spring-boot-file-upload]：Spring Boot 3.0.2 上传文件使用案例
