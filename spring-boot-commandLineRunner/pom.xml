@@ -7,16 +7,18 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-commandLineRunner</name>
     <description>spring-boot-commandLineRunner</description>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.0.2</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>3.0.2</spring-boot.version>
-        <parent>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-parent</artifactId>
-            <version>3.0.2</version>
-        </parent>
+
     </properties>
     <dependencies>
         <dependency>
@@ -59,7 +61,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.misszhou.springbootcommandlinerunner.SpringBootCommandLineRunnerApplication
+                    <mainClass>com.misszhou.SpringBootCommandLineRunnerApplication
                     </mainClass>
                     <skip>true</skip>
                 </configuration>

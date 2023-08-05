@@ -60,7 +60,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.misszhou.springboothelloworld.SpringBootHelloworldApplication</mainClass>
+                    <mainClass>com.misszhou.SpringBootHelloworldApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

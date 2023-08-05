@@ -81,7 +81,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.misszhou.springbootpackagewar.SpringBootPackageWarApplication</mainClass>
+                    <mainClass>com.misszhou.SpringBootPackageWarApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

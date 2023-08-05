@@ -60,7 +60,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.misszhou.springbootscheduler.SpringBootSchedulerApplication</mainClass>
+                    <mainClass>com.misszhou.SpringBootSchedulerApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
