@@ -1,9 +1,9 @@
 Spring Boot 学习示例
 =========================
 ![Spring Boot 3.0](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen.svg)
-![Mysql 8.0](https://img.shields.io/badge/Mysql-8.0-blue.svg)
+![Mysql 8.0](https://img.shields.io/badge/Mysql-8.0.33-blue.svg)
 ![JDK 17](https://img.shields.io/badge/JDK-17-brightgreen.svg)
-![Maven](https://img.shields.io/badge/Maven-3.8.0-yellowgreen.svg)
+![Maven](https://img.shields.io/badge/Maven-3.9.1-yellowgreen.svg)
 ![license](https://img.shields.io/badge/license-MPL--2.0-blue.svg)
 
 Spring Boot 使用的各种示例，以最简单、最实用为标准，此开源项目中的每个示例都以最小依赖，最简单为标准，帮助初学者快速掌握 Spring Boot 各组件的使用。
